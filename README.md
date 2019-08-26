@@ -1,5 +1,6 @@
 # Assembly-MIPS
-Assembly-MIPS Exemplos de operações  básicas(soma, subtração, divisão e multiplicação), utilizando a linguagem Assembly e simulando no QtSpim. 
+
+Exemplos de operações  básicas(soma, subtração, divisão e multiplicação), utilizando a linguagem Assembly e simulando no QtSpim. 
 
 # Referências 
 - http://www.eitas.com.br/tutorial/10/56 
